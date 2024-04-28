@@ -1,19 +1,14 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
-}
 
-body{
-    background: url("/images/nosotros.jpg")no-repeat;
+
+.nosotros{
+    background: url("../images/nosotros1.jpg")no-repeat;
     background-size: cover;
     background-position: center;
+    background-color: rgb(0, 255, 13);
 }
 
   
-  
-  .container__cards{
+.container__cards{
     padding-top: 150px;
     width:100%;
     display: flex;
