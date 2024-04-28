@@ -268,22 +268,6 @@ text-shadow: 0 0 30px rgba(255, 255, 255, 0.6), 0 0 60px rgba(255, 255, 255, 0.4
   
 }
 
-    @keyframes surprise
-    {
-        0% {transform: rotate(0deg) scale(1,1);;}
-        10% {transform: rotate(7deg) scale(2,2);}
-        20% {transform: rotate(-7deg) scale(2,2);}
-        30% {transform: rotate(7deg) scale(2,2);}
-        40% {transform: rotate(-7deg) scale(2,2);}
-        50% {transform: rotate(7deg) scale(2,2);}
-        60% {transform: rotate(-7deg) scale(2,2);}
-        70% {transform: rotate(7deg) scale(2,2);}
-        80% {transform: rotate(-7deg) scale(2,2);}
-        90% {transform: rotate(7deg) scale(2,2);}
-        100% {transform: rotate(0deg) scale(1,1);}
-    }
-
-
 
 
 .main{
@@ -406,10 +390,5 @@ min-height: 100vh;
     font-weight: 600;
     text-decoration: none;
 }
-
-
-
-
-
 
 
